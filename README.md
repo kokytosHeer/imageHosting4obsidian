@@ -1,5 +1,3 @@
-# Hello! Folks.
-
-## This is for my personal use of pics in my Obsidian valut.
+# Image hosting for my own Obsidian valut
 
 Would upload more pics soon.
